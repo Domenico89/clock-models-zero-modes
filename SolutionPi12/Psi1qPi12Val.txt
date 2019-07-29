@@ -1,0 +1,20 @@
+{1/Sqrt[6] - E^(((2*I)/3)*Pi)/Sqrt[6], -(1/(Sqrt[6]*E^(((2*I)/3)*Pi))) + 
+  E^(((2*I)/3)*Pi)/Sqrt[6], -(1/Sqrt[6]) + 1/(Sqrt[6]*E^(((2*I)/3)*Pi)), 
+ -(1/Sqrt[3*(2 + Sqrt[3])]) + E^(((2*I)/3)*Pi)/Sqrt[3*(2 + Sqrt[3])], 
+ 1/(Sqrt[3*(2 + Sqrt[3])]*E^(((2*I)/3)*Pi)) - 
+  E^(((2*I)/3)*Pi)/Sqrt[3*(2 + Sqrt[3])], 1/Sqrt[3*(2 + Sqrt[3])] - 
+  1/(Sqrt[3*(2 + Sqrt[3])]*E^(((2*I)/3)*Pi)), 
+ Sqrt[2/3 + 1/Sqrt[3]] - Sqrt[2/3 + 1/Sqrt[3]]*E^(((2*I)/3)*Pi), 
+ -(Sqrt[2/3 + 1/Sqrt[3]]/E^(((2*I)/3)*Pi)) + Sqrt[2/3 + 1/Sqrt[3]]*
+   E^(((2*I)/3)*Pi), -Sqrt[2/3 + 1/Sqrt[3]] + Sqrt[2/3 + 1/Sqrt[3]]/
+   E^(((2*I)/3)*Pi), 1/Sqrt[3*(2 + Sqrt[3])] - 
+  1/(Sqrt[3*(2 + Sqrt[3])]*E^(((2*I)/3)*Pi)), -(1/Sqrt[3*(2 + Sqrt[3])]) + 
+  E^(((2*I)/3)*Pi)/Sqrt[3*(2 + Sqrt[3])], 
+ 1/(Sqrt[3*(2 + Sqrt[3])]*E^(((2*I)/3)*Pi)) - 
+  E^(((2*I)/3)*Pi)/Sqrt[3*(2 + Sqrt[3])], -Sqrt[2/3 + 1/Sqrt[3]] + 
+  Sqrt[2/3 + 1/Sqrt[3]]/E^(((2*I)/3)*Pi), Sqrt[2/3 + 1/Sqrt[3]] - 
+  Sqrt[2/3 + 1/Sqrt[3]]*E^(((2*I)/3)*Pi), 
+ -(Sqrt[2/3 + 1/Sqrt[3]]/E^(((2*I)/3)*Pi)) + Sqrt[2/3 + 1/Sqrt[3]]*
+   E^(((2*I)/3)*Pi), -(1/Sqrt[6]) + 1/(Sqrt[6]*E^(((2*I)/3)*Pi)), 
+ 1/Sqrt[6] - E^(((2*I)/3)*Pi)/Sqrt[6], -(1/(Sqrt[6]*E^(((2*I)/3)*Pi))) + 
+  E^(((2*I)/3)*Pi)/Sqrt[6]}
