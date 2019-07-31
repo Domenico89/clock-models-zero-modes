@@ -1,4 +1,4 @@
-Solutions of the zero mode expansion for \theta=\pi/6 and \phi=0, up to the 6th order (that is operator acting on chain of length 7). 
+Solutions of the zero mode expansion for \theta=\pi/6 and \phi=0, up to the 6th order (that is operator acting on chain of length 7). Note that the solution is not correctly normalized. 
 To use the files initialize it in a Mathematica Notebook through the Get function.
 
 For example, in order to create the solution \psi^{(2)}, write in a Mathematica nootebook 
